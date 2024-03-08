@@ -1,0 +1,14 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "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"
+    },
+    {
+        "model": "gpt-3.5-turbo",
+        "api_key": "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"
+    },
+    {
+        "model": "gpt-3.5-turbo-16k",
+        "api_key": "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"
+    }
+]
